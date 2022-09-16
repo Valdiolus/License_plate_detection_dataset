@@ -11,8 +11,9 @@ How to start:
 1. Download the dataset from google drive (2.2 GB): https://drive.google.com/file/d/13UmKo2X_GifLN-uOEkCgjejwMj95o2jJ/view?usp=sharing
 2. Install requirements:  pip3 install -r requirements.txt
 3. Use:
+
 python3 show_dataset.py -p DATASET_FOLDER_PATH    to watch train images
-or
+
 python3 show_dataset.py -p DATASET_FOLDER_PATH -v to watch validation images
 
 
